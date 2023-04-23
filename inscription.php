@@ -8,6 +8,7 @@
                           
 console.log("Message to log");
 
+
     $reslt=$dbh->prepare($req);
     $reslt->execute(array($CNE,$Nom,$Adresse,$PW));
     include "index.php";
