@@ -1,10 +1,11 @@
  <?php
-console.log("Message to log1");
+$data = "some data to log";
+echo "<script>console.log('" . $data . "');</script>";
 
     include('connexion.php');
 console.log("Message to log2");
 
-    $req="INSERT INTO utilisateur (idUser,NOM, EMAIL, ADRESSE, PWD) VALUES (1,?, ?, ?, ?)";
+    $req="INSERT INTO utilisateur (idUser,NOM, EMAIL, ADRESSE, PWD) VALUES ("1",?, ?, ?, ?)";
     $CNE=$_POST['login'];
     $Nom=$_POST['nom'];
     $Adresse=$_POST['adresse'];
