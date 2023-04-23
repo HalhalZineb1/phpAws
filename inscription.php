@@ -1,6 +1,6 @@
  <?php
     include('connexion.php');
-    $req="INSERT INTO utilisateur (idUser,NOM, EMAIL, ADRESSE, PWD) VALUES ('1','yass', 'test', 'test', 'test');";
+    $req="INSERT INTO utilisateur (NOM, EMAIL, ADRESSE, PWD) VALUES (?, ?, ?, ?);";
     $CNE=$_POST['login'];
     $Nom=$_POST['nom'];
     $Adresse=$_POST['adresse'];
