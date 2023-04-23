@@ -6,7 +6,7 @@
     $Adresse=$_POST['adresse'];
     $PW=$_POST['pwd'];
                           
-error_log("here", 0);
+console.log("Message to log");
 
     $reslt=$dbh->prepare($req);
     $reslt->execute(array($CNE,$Nom,$Adresse,$PW));
