@@ -1,0 +1,69 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 60%;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px 0 0 5px;
+}
+
+button {
+  width: 20%;
+  padding: 10px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #0078d4;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+.result-box {
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+ul.results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+ul.results li {
+  margin-bottom: 10px;
+}
+
+ul.results li h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+ul.results li p {
+  font-size: 16px;
+  margin: 0;
+}
