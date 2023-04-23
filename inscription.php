@@ -5,7 +5,9 @@
     $Nom=$_POST['nom'];
     $Adresse=$_POST['adresse'];
     $PW=$_POST['pwd'];
-                                
+                          
+error_log("here");
+
     $reslt=$dbh->prepare($req);
     $reslt->execute(array($CNE,$Nom,$Adresse,$PW));
     include "index.php";
