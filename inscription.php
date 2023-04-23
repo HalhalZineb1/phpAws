@@ -1,6 +1,4 @@
  <?php
-$data = "some data to log";
-echo "<script>console.log('" . $data . "');</script>";
 
     include('connexion.php');
 console.log("Message to log2");
