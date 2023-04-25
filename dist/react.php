@@ -95,7 +95,7 @@ body {
 </a>
 <!-- partial -->
   <script  src="./script.js"></script>
-  <div align="right">
+ <div id="ma-section">
  
 
 <p> 
