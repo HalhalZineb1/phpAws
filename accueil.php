@@ -46,9 +46,9 @@
     <button class="menu" onclick="ouvertureFermetureMenu()">☰</button>
     <!-- Bouton d'ouverture du menu -->
     <h1> Déploiement Cloud avec Microsoft Azure</h1>
-     <div id="slogan">
-      <h2>Azure : Le cloud idéal pour déployer votre site web</h2>
-    </div>  
+
+      <h2><span style="font-size: 24px; font-weight: bold; color: red">Azure : Le cloud idéal pour déployer votre site web</span></h2>
+      
     <!-- titre de la page  -->
     <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec Microsoft Azure,
 	tout en bénéficiant<br> de nombreux avantages.</center></h2>
