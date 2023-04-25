@@ -144,6 +144,6 @@ a {
 	
 </div>
 
-<a href="acceuil.php" target="_blank">Acces direct</a>
+<a href="./accueil.php" target="_blank">Acces direct</a>
 </body>
 </html>
