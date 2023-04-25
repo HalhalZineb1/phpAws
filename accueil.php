@@ -14,7 +14,16 @@
 
   <!-- on ajoute les fonts google -->
   <script type="text/javascript" src="./js/cg_script.js"></script>
-  
+   <style>
+      /* Styles pour le slogan */
+      #slogan {
+        background-color: #2c3e50;
+        color: #fff;
+        font-size: 24px;
+        padding: 10px;
+        text-align: center;
+      }
+	</style>
 
   
 </head>
@@ -35,6 +44,9 @@
     <button class="menu" onclick="ouvertureFermetureMenu()">☰</button>
     <!-- Bouton d'ouverture du menu -->
     <h1> Déploiement Cloud avec Microsoft Azure</h1>
+     <div id="slogan">
+      <h2>Azure : Le cloud idéal pour déployer votre site web</h2>
+    </div>  
     <!-- titre de la page  -->
     <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec Microsoft Azure,
 	tout en bénéficiant<br> de nombreux avantages.</center></h2>
