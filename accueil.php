@@ -51,7 +51,7 @@
       
     <!-- titre de la page  -->
     <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec Microsoft Azure,
-	tout en bénéficiant<br> de nombreux avantages.</center></h2>
+	<br> tout en bénéficiant de nombreux avantages.</center></h2>
     <!-- sous titre de la page  -->
     <a href="pages/guide.php">En savoir plus</a>
 
