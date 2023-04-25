@@ -6,7 +6,7 @@
   <!-- informations d'entête utilisées -->
   <meta charset="utf-8">
   <!-- encodage de caractère -->
-  <title>guide</title>
+  <title>Guide</title>
   <!-- Titre de la page -->
   <link rel="stylesheet" href="../style1.css">
   <link rel="icon" type="image/png" href="../votre-favicon.png">
