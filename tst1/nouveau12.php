@@ -10,7 +10,9 @@
   <!-- Titre de la page -->
   <link rel="stylesheet" href="nouveau 1.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
- 
+  <link rel="icon" type="image/png" href="../votre-favicon.png">
+
+
 
   <script type="text/javascript" src="../js/cg_script.js"></script>
 
