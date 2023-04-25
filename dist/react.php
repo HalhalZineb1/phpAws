@@ -12,18 +12,11 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-    h1 {
-  font-weight: bold;
-    }
-
-
-
 </style>
 </head>
 <body>
     
-<h1>Partagez votre expérience avec notre site web</h1>
+<span style="font-size: 24px; font-weight: bolder; color: #4682B4">Partagez votre expérience avec notre site web</span>
 <br><br><br>
 <!-- partial:index.partial.html -->
 <ul class="feedback">
