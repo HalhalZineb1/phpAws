@@ -47,7 +47,7 @@
     <!-- Bouton d'ouverture du menu -->
     <h1> Déploiement Cloud avec Microsoft Azure</h1>
 
-      <h2><span style="font-size: 24px; font-weight: bold; color: red">Azure : Le cloud idéal pour déployer votre site web</span></h2>
+      <h2><span style="font-size: 24px; font-weight: bold; color: #5F9EA0">Azure : Le cloud idéal pour déployer votre site web</span></h2>
       
     <!-- titre de la page  -->
     <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec Microsoft Azure,
