@@ -6,7 +6,7 @@
   <!-- informations d'entête utilisées -->
   <meta charset="utf-8">
   <!-- encodage de caractère -->
-  <title>Accueil</title>
+  <title>Pourquoi Azure?</title>
   <!-- Titre de la page -->
   <link rel="stylesheet" href="nouveau 1.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
