@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Form</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    
+    <link rel="stylesheet" href="style.css">
     <style> 
-     
+     body {
+
 @property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
@@ -111,10 +112,12 @@ a {
   font-weight: bold;
   margin-top: 2rem;
 }
+
 </style>
 
 </head>
 <body>
+    <div class="card">
     <div class="container">
         
       <form action="login.php" method="post">
@@ -130,6 +133,6 @@ a {
       </form>
      <div><p>Not registered yet <a href="inscriptionn.php">Register Here</a></p></div>
     </div>
-    <a href="./accueil.php" target="_blank">Acces direct</a>
+           </div>
 </body>
 </html>
