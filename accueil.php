@@ -17,11 +17,12 @@
    <style>
       /* Styles pour le slogan */
       #slogan {
-        background-color: #2c3e50;
-        color: #fff;
+       
+        color: YELLOW;
         font-size: 24px;
         padding: 10px;
         text-align: center;
+	font-family: Algerian, sans-serif;
       }
 	</style>
 
