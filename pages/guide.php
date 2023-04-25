@@ -29,7 +29,7 @@
     <a href="../accueil.php">Accueil</a>
     <a href="guide.php">Guide déploiement</a>
     <a href="../tst1/nouveau12.php">Avantage<br> Azure.</a>
-    <a href="../dist/react.php">React</a>
+    <a href="../dist/react.php">Avis utilisateur</a>
   </nav>
   </nav>
 
