@@ -20,14 +20,7 @@
   <script type="text/javascript" src="./js/cg_script.js"></script>
    <style>
       /* Styles pour le slogan */
-      #slogan {
-       
-        color: #FFFF00;
-        font-size: 24px;
-        padding: 10px;
-        text-align: center;
-	
-      }
+
 
  
 
