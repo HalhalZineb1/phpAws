@@ -5,6 +5,7 @@
   <title>Partagez votre expérience avec notre site web</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel="stylesheet" href="./style.css">
+<link rel="icon" type="image/png" href="../votre-favicon.png">
 <style>
 body {
   background-image: url('reaction.jpeg');
@@ -94,11 +95,15 @@ body {
 </a>
 <!-- partial -->
   <script  src="./script.js"></script>
+      <div class="droite">
+
 <p> 
   Travailler sur Azure pour ce projet a été une expérience enrichissante pour moi. J'ai adoré travailler avec les différentes
-  fonctionnalités et les outils proposés par la plateforme. C'était une chance pour moi de pouvoir utiliser Azure pour ce projet et
-  j'ai consacré beaucoup de temps pour le réaliser avec succès.
-  Je suis fière du résultat final et je suis reconnaissante d'avoir eu l'opportunité de travailler sur Azure pour ce projet.
+  <br>fonctionnalités et les outils proposés par la plateforme. C'était une chance pour moi de pouvoir utiliser Azure pour ce projet et
+  <br>j'ai consacré beaucoup de temps pour le réaliser avec succès.
+  <br> Je suis fière du résultat final et je suis reconnaissante d'avoir eu l'opportunité de travailler sur Azure pour ce projet.
       </p>
+        
+      </div>
 </body>
 </html>
