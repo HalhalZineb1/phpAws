@@ -30,10 +30,11 @@
       <a href="../dist/react.php">Avis utilisateur</a>
     </nav>
 
-
+<br>
+	<br><br>
 <div class="wrapper">
-	<h1>Qu'est-ce qui rend Azure un choix de cloud privilégié par rapport aux autres options sur le marché?</h1>
-  <h2>Tournez les cartes!</h2>
+	<h1>Qu'est-ce qui rend Azure un choix de cloud privilégié par rapport aux autres options sur le marché?</h1><br>
+  <h2>Tournez les cartes!</h2><br>
   <h3>Pour savoir !!</h3>
 </div>
 
