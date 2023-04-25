@@ -16,6 +16,9 @@ body {
     h1 {
   font-weight: bold;
     }
+.droite {
+  float: right;
+}
 
 
 
