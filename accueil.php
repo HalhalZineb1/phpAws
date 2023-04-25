@@ -12,6 +12,10 @@
   <!-- on ajoute le style.css à la page-->
   <link rel="preconnect" href="https://fonts.gstatic.com">
 
+  <link rel="icon" type="image/png" href="/votre-favicon.png">
+
+
+
   <!-- on ajoute les fonts google -->
   <script type="text/javascript" src="./js/cg_script.js"></script>
    <style>
@@ -22,7 +26,7 @@
         font-size: 24px;
         padding: 10px;
         text-align: center;
-	font-family: Algerian, sans-serif;
+	
       }
 
  
