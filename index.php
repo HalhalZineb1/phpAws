@@ -9,17 +9,6 @@
     
     <style> 
      
-
-  .container {
-  max-width: 400px;
-  margin: 0 auto;
-  background-color: white;
-  padding: 20px;
-  border-radius: 10px;
-
-  
-
-}
 @property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
