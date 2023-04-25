@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
     <style> 
      body {
-  background-color: #ffffcc;        
+  background-color: #a5d6a7;        
   height: 100vh;
   display: flex;
   justify-content: center;
