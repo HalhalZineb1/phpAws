@@ -95,7 +95,7 @@ body {
 </a>
 <!-- partial -->
   <script  src="./script.js"></script>
- <div id="ma-section">
+<span style="font-size: 24px; font-weight: bold;">
  
 
 <p> 
@@ -104,7 +104,7 @@ body {
   <br>j'ai consacré beaucoup de temps pour le réaliser avec succès.
   <br> Je suis fière du résultat final et je suis reconnaissante d'avoir eu l'opportunité de travailler sur Azure pour ce projet.
       </p>
-</div>
+</span>
 
 </body>
 </html>
