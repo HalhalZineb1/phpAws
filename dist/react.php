@@ -98,7 +98,8 @@ body {
 </a>
 <!-- partial -->
   <script  src="./script.js"></script>
-      <div class="droite">
+  <div align="right">
+ 
 
 <p> 
   Travailler sur Azure pour ce projet a été une expérience enrichissante pour moi. J'ai adoré travailler avec les différentes
@@ -106,7 +107,7 @@ body {
   <br>j'ai consacré beaucoup de temps pour le réaliser avec succès.
   <br> Je suis fière du résultat final et je suis reconnaissante d'avoir eu l'opportunité de travailler sur Azure pour ce projet.
       </p>
-        
-      </div>
+</div>
+
 </body>
 </html>
