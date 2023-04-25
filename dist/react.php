@@ -98,12 +98,12 @@ body {
 <span style="font-size: 24px; font-weight: bold;">
  
 
-<p> 
+<h4> 
   Travailler sur Azure pour ce projet a été une expérience enrichissante pour moi. J'ai adoré travailler avec les différentes
   <br>fonctionnalités et les outils proposés par la plateforme. C'était une chance pour moi de pouvoir utiliser Azure pour ce projet et
   <br>j'ai consacré beaucoup de temps pour le réaliser avec succès.
   <br> Je suis fière du résultat final et je suis reconnaissante d'avoir eu l'opportunité de travailler sur Azure pour ce projet.
-      </p>
+      </h4>
 </span>
 
 </body>
