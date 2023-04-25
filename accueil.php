@@ -24,7 +24,7 @@
         text-align: center;
 	font-family: Algerian, sans-serif;
       }
-	</style>
+</style>
 
   
 </head>
