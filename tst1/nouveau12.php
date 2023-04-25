@@ -29,9 +29,8 @@
     </nav>
 
 
-
 <div class="wrapper">
-	<h1>Pourquoi AWS</h1>
+	<h1>Pourquoi Azure</h1>
   <h2>Tournez les cartes!</h2>
   <h3>Pour savoir</h3>
 </div>
@@ -42,8 +41,8 @@
     </div>
     <div class="back">
        <h2>Évolutivité</h2>
-       <p> AWS est conçu pour être hautement évolutif, ce qui signifie que vous pouvez facilement augmenter
-          ou diminuer vos ressources cloud en fonction de vos besoins, sans avoir à vous soucier de la gestion matérielle sous-jacente.</p>
+       <p>Azure permet de facilement mettre à l’échelle 
+	   les ressources en fonction des besoins de votre entreprise, permettant une gestion plus efficace des charges de travail.</p>
     </div>
 	
 </div>
@@ -53,8 +52,9 @@
     </div>
     <div class="back">
        <h2>Flexibilité</h2>
-       <p> AWS offre une large gamme de services et de fonctionnalités, 
-         permettant aux utilisateurs de personnaliser leurs solutions cloud en fonction de leurs besoins spécifiques.</p>
+       <p> Azure prend en charge un large éventail de langages de programmation, 
+	   de bases de données, de systèmes d’exploitation et de frameworks,
+	   ce qui permet de travailler avec les technologies de votre choix.</p>
     </div>
 </div>
 <div class="flip">
@@ -63,9 +63,9 @@
     </div>
     <div class="back">
        <h2>Sécurité</h2>
-       <p> AWS prend la sécurité très au sérieux et offre une grande variété de fonctionnalités de sécurité, 
-       telles que la gestion des identités et des accès, la surveillance des activités, la conformité réglementaire, 
-       la protection des données, etc.</p>
+       <p>Azure utilise des techniques de sécurité avancées, 
+	   notamment la surveillance continue, la détection d’intrusion et la gestion des identités,
+	   pour protéger vos données et vos applications.</p>
     </div>
 </div>
 
@@ -76,13 +76,13 @@
   
 
 <div class="flip flip-vertical">
-    <div class="front" style="background-image: url('intt.jpg')">
-       <h1 class="text-shadow">Disponibilité</h1>
+    <div class="front" style="background-image: url('int.jpg')">
+       <h1 class="text-shadow">Intégration</h1>
     </div>
     <div class="back">
-       <h2>Disponibilité</h2>
-       <p> AWS offre une disponibilité élevée, avec une infrastructure redondante et une architecture de disponibilité régionale.
-          Cela permet d’assurer une haute disponibilité de vos applications et services.</p>
+       <h2>Intégration</h2>
+       <p> Azure s’intègre facilement à d’autres services et applications, 
+	   tels que Microsoft Office 365, ce qui permet d’optimiser la productivité et la gestion des données.</p>
     </div>
 </div>
 <div class="flip flip-vertical">
@@ -91,19 +91,19 @@
     </div>
     <div class="back">
        <h2>Coûts</h2>
-       <p>AWS propose une tarification à l’utilisation, ce qui signifie que vous ne payez que pour les services que vous utilisez réellement.
-          AWS propose également des options de tarification personnalisées et des remises pour les clients fidèles, ce qui peut aider à réduire les coûts.</p>
+       <p>Azure propose une tarification flexible,
+	   permettant de payer uniquement pour les services utilisés, ce qui peut réduire les coûts de l’infrastructure informatique.</p>
     </div>
 </div>
 <div class="flip flip-vertical">
     <div class="front" style="background-image: url('col.jpg')">
-       <h1 class="text-shadow">Écosystème:</h1>
+       <h1 class="text-shadow">Collaboration :</h1>
     </div>
     <div class="back">
-       <h2>Écosystème:</h2>
+       <h2>Collaboration :</h2>
 	   
-       <p> Écosystème: AWS dispose d’une communauté d’utilisateurs et de partenaires très active et en expansion constante,
-          avec une grande variété de ressources disponibles pour aider les utilisateurs à tirer le meilleur parti de leurs solutions cloud.</p>
+       <p> Azure prend en charge la collaboration en temps réel,
+	   ce qui permet à des équipes de travailler ensemble sur des projets à distance.</p>
     </div>
 </div>
 
