@@ -34,9 +34,9 @@
     <!-- container principal avec une classe unique et un id commun à toutes les pages  -->
     <button class="menu" onclick="ouvertureFermetureMenu()">☰</button>
     <!-- Bouton d'ouverture du menu -->
-    <h1> Déploiement Cloud avec AWS</h1>
+    <h1> Déploiement Cloud avec Microsoft Azure</h1>
     <!-- titre de la page  -->
-    <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec AWS,
+    <h2><center>Découvrez comment déployer facilement et efficacement votre site web avec Microsoft Azure,
 	tout en bénéficiant<br> de nombreux avantages.</center></h2>
     <!-- sous titre de la page  -->
     <a href="pages/guide.php">En savoir plus</a>
