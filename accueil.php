@@ -24,9 +24,13 @@
         text-align: center;
 	font-family: Algerian, sans-serif;
       }
+
+ 
+
+
 </style>
 
-  
+   <link rel="icon" type="image/png" href="your-favicon.png">
 </head>
 <!-- début du corps du document html -->
 <body>
