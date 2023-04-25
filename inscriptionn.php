@@ -7,9 +7,8 @@
     <title>Registration Form</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-
-  <style>  
-      @property --rotate {
+<style>
+	@property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
   inherits: false;
@@ -111,10 +110,11 @@ a {
   font-weight: bold;
   margin-top: 2rem;
 }
-</style>
+	</style>
 </head>
 <body>
-    
+<div class="card">
+  
     <div class="container">
         
         <form action="inscription.php" method="post">
@@ -136,15 +136,18 @@ a {
             </div>
         </form>
         <div>
-     
-     
-     <div>
         <div><p>Already Registered <a href="index.php">Login Here</a></p></div>
       </div>
     </div>
 	
 </div>
 
-<a href="./accueil.php" target="_blank">Acces direct</a>
+<a href="C:\wampNew\www\azure\accueil.html" target="_blank">Acces direct</a>
 </body>
 </html>
+
+
+
+ <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+   
