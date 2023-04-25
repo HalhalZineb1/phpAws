@@ -32,9 +32,9 @@
 
 
 <div class="wrapper">
-	<h1>Pourquoi Azure</h1>
+	<h1>Qu'est-ce qui rend Azure un choix de cloud privilégié par rapport aux autres options sur le marché?</h1>
   <h2>Tournez les cartes!</h2>
-  <h3>Pour savoir</h3>
+  <h3>Pour savoir !!</h3>
 </div>
 
 <div class="flip">
