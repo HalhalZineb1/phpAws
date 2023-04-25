@@ -18,7 +18,7 @@
       /* Styles pour le slogan */
       #slogan {
        
-        color: YELLOW;
+        color: #FFFF00;
         font-size: 24px;
         padding: 10px;
         text-align: center;
