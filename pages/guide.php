@@ -13,7 +13,7 @@
 
   <script type="text/javascript" src="../js/cg_script.js"></script>
   <style>body {
-  background-image: url('guide.jpg');
+  background-image: url('ca.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -66,14 +66,25 @@
     <div class='progress_inner__bar--set'></div>
     <div class='progress_inner__tabs'>
       <div class='tab tab-0'>
-        <h1> Configuration de l'infrastructure AWS:</h1>
+        <h1>Créer et cloner le référentiel GitHub pour votre site web</h1>
         <p>
-   
-
-Créez un compte AWS et connectez-vous à la console AWS.
-Créez une instance EC2 (Elastic Compute Cloud) en choisissant une image AMI (Amazon Machine Image) appropriée pour votre application Web PHP.
-Configurez le groupe de sécurité pour permettre l'accès HTTP et SSH depuis les emplacements autorisés.
-		 </p>
+   	
+		Description : Dans cette étape, vous allez créer un référentiel GitHub pour votre site web et cloner ce référentiel sur votre ordinateur local. Le référentiel GitHub sera utilisé pour stocker votre code source et le déploiement continu de votre application sur Microsoft Azure.
+<br>
+		Instructions :
+<br>
+	1. Créez un compte GitHub si vous n'en avez pas déjà un.
+<br>2. Créez un nouveau référentiel en cliquant sur le bouton "New Repository".
+<br>3. Donnez un nom à votre référentiel et ajoutez une description si vous le souhaitez.
+<br>4. Choisissez l'option "Public" ou "Private" selon votre préférence.
+<br>5. Cochez la case "Initialize this repository with a README" pour créer un fichier README.md dans votre référentiel.
+<br>6. Cliquez sur le bouton "Create Repository".
+<br>7. Copiez l'URL de votre référentiel GitHub.
+<br>8. Ouvrez votre terminal ou votre ligne de commande et accédez au répertoire où vous souhaitez cloner votre référentiel.
+<br>9. Utilisez la commande "git clone" suivie de l'URL de votre référentiel GitHub pour cloner le référentiel sur votre ordinateur local.
+		
+		
+	 </p>
       </div>
       <div class='tab tab-1'>
         <h1>Installation de PHP et de la base de données SQL :</h1>
