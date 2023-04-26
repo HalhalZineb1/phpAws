@@ -83,7 +83,7 @@
         font-size: 50px;
         text-align: center;
         margin-top: 60px;
-		font-family: Edwardian Script ITC;
+	font-family: Edwardian Script ITC;
     }
 	h2{
         color: red;
@@ -144,19 +144,7 @@
   </style>
 </head>
 <body>
-	<!DOCTYPE html>
-<!-- indique qu'il s'agit d'une page web html -->
-<html lang="fr" >
-<!-- permet au navigateur de se préparer a lire du code html  -->
-<head>
-  <!-- informations d'entête utilisées -->
-  <meta charset="utf-8">
-  <!-- encodage de caractère -->
-  <title>Accueil</title>
-  <!-- Titre de la page -->
-  <link rel="stylesheet" href="./style.css">
-  <!-- on ajoute le style.css à la page-->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
+
 
   <link rel="icon" type="image/png" href="/votre-favicon.png">
 
