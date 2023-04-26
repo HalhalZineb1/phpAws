@@ -103,8 +103,7 @@
 <br>Ajoutez le code PHP pour la connexion à la base de données et pour le traitement des requêtes d'inscription et de connexion.
 <br>Testez votre site web en exécutant un serveur PHP local sur votre ordinateur.
 </p>
-      </div>
-      <div class='tab tab-2'>
+     
         <h1> Configurer les paramètres de l'application web sur Azure pour qu'elle soit connectée à la base de données SQL:</h1>
         <p>
 		Configurer les paramètres de l'application web sur Azure pour qu'elle soit connectée à la base de données SQL en utilisant l'onglet Configuration dans le portail Azure :
@@ -114,8 +113,7 @@
 <br>3.Cliquez sur le bouton "Ajouter une chaîne de connexion" et entrez les informations de votre base de données SQL, y compris le nom du serveur, le nom de la base de données, le nom d'utilisateur et le mot de passe.
 <br>4. Cliquez sur "OK" pour ajouter la chaîne de connexion.
 	</p>
-      </div>
-      <div class='tab tab-3'>
+
         <h1>Activer la fonctionnalité de déploiement continu avec GitHub comme centre de déploiement :</h1>
         <p>
         Activez la fonctionnalité de déploiement continu (continuous deployment) dans les paramètres de l'application web sur Azure en sélectionnant GitHub comme centre de déploiement :
@@ -125,8 +123,7 @@
 <br>3. Sélectionnez le référentiel que vous avez créé précédemment et choisissez la branche que vous souhaitez déployer.
 <br>4. Cliquez sur "Enregistrer" pour activer la fonctionnalité de déploiement continu.
 	</p>
-      </div>
-      <div class='tab tab-4'>
+      
         <h1> Vérification de votre application Web :</h1>
         <p>.
        Effectuez un commit et un push des modifications apportées à votre référentiel GitHub, et Azure récupérera automatiquement les modifications apportées à votre référentiel GitHub et les déploiera sur l'application web :
@@ -136,9 +133,7 @@
 <br>3. Azure récupérera automatiquement les modifications apportées à votre référentiel GitHub et les déploiera sur l'application web. Vous pouvez suivre le processus
 		de déploiement continu en consultant les informations sur l'onglet "Déploiement continu" de votre application web sur Azure.
 	</p>
-      </div>
-    </div>
-<div class="progress_inner__status">
+    
   <div class="cloud"></div>
   <div class="progress_inner__bar"></div>
   <div class="progress_inner__step">
