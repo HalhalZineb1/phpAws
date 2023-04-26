@@ -88,8 +88,7 @@
 		
 		
 	 </p>
-      </div>
-      <div class='tab tab-1'>
+      
         <h1>Installation de PHP et de la base de données SQL :</h1>
         <p>
 		
