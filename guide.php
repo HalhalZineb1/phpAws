@@ -145,25 +145,6 @@
 </head>
 <body>
 
-
-  <link rel="icon" type="image/png" href="/votre-favicon.png">
-
-
-
-  <!-- on ajoute les fonts google -->
-  <script type="text/javascript" src="./js/cg_script.js"></script>
-   <style>
-      /* Styles pour le slogan */
-
-
- 
-
-
-</style>
-
-   <link rel="icon" type="image/png" href="your-favicon.png">
-</head>
-<!-- début du corps du document html -->
 <body>
   
 
