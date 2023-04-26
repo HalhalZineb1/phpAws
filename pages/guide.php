@@ -67,7 +67,7 @@
     <div class='progress_inner__bar'></div>
     <div class='progress_inner__bar--set'></div>
     <div class='progress_inner__tabs'>
-      <div class='tab tab-0'>
+      
         <h1>Suivez ces étapes pour développer et déployer votre site web.<br> Créer et cloner le référentiel GitHub pour votre site web</h1>
         <p>
    	
