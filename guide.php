@@ -79,6 +79,8 @@
 
 <body>
   
+<img src=".\votre-favicon.png" alt="Logo du site" class="logo" width="200" height="150" style="border-radius: 50%;">
+
 
    
 <br><br>
