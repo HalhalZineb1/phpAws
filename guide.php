@@ -5,6 +5,73 @@
   <title>Déploiement d'un site web PHP sur Azure Cloud</title>
   
   <style>
+*
+======================== css commun à toutes les pages ========================
+*/
+body {
+  margin:0;
+  
+}
+html {
+/*     font-size:16px ; */
+}
+
+ h2 {
+  color:white;
+  font-size: 2rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+ h3 {
+  color:#12232E;
+  font-size: 1.5rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+/*    marge : haut droite bas gauche; */
+   margin:0 0 10px 0;
+}
+.section_pleine_hauteur {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:100vh;
+  flex-wrap: wrap;
+  width:100vw;
+}
+
+#container_principal {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#container_principal h1 {
+  color:white;
+  font-size: 5rem;
+  margin-bottom: 0;
+  font-family: 'Ubuntu', sans-serif;
+  text-align:center;
+
+}
+#container_principal h2 {
+  color:white;
+  font-size: 2rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+#container_column {
+  display:inline-flex;
+  flex-direction:row;
+  justify-content:space-around;
+  align-items:flex-start;
+  width:100vw;
+  height:auto;
+  flex-wrap:wrap;
+}
 /* Sidebar menu  */
 
 #sidebarMenu {
