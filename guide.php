@@ -153,7 +153,7 @@
   
   <div class="container11">
   <div class="image">
-    <img src="C:\wampNew\www\azure\pages\gitt.png" width="900" height="750">
+    <img src=".\gitt.png" width="900" height="750">
   </div>
   <div class="text">
     <p>J'ai utilisé GitHub pour héberger mon code source et configuré la connexion entre mon compte GitHub et mon Web App sur Azure pour un déploiement continu. J'ai également configuré la connexion entre mon site web PHP et ma base de données SQL sur Azure.</p>
