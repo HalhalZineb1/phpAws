@@ -80,20 +80,7 @@
 <body>
   
 
-     <nav id="sidebarMenu" >
-	
-    <a href="accueil.php">Accueil</a>
-    <a href="guide.php">Guide déploiement</a>
-    <a href="tst1/nouveau12.php">Avantage<br> Azure.</a>
-    <a href="dist/react.php">Avis utilisateur</a>
-  </nav>
-
-  <section id="container_principal" class="container_accueil">
-    <!-- container principal avec une classe unique et un id commun à toutes les pages  -->
-    <button class="menu" onclick="ouvertureFermetureMenu()">☰</button>
-    <!-- Bouton d'ouverture du menu -->
-<img src=".\votre-favicon.png" alt="Logo du site" class="logo" width="200" height="150" style="border-radius: 50%;">
-
+   
 <br><br>
   <h1>Déploiement d'un site web PHP sur Azure Cloud</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <div class="container">
