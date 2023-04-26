@@ -46,24 +46,10 @@
     <div class='progress_inner__step'>
       <label for='step-1'>Étape initiale</label>
     </div>
-    <div class='progress_inner__step'>
-      <label for='step-2'> Développement local</label>
-    </div>
-    <div class='progress_inner__step'>
-      <label for='step-3'> Configuration BDD</label>
-    </div>
-    <div class='progress_inner__step'>
-      <label for='step-4'>Déploiement continu</label>
-    </div>
-    <div class='progress_inner__step'>
-      <label for='step-5'>Commit & Push</label>
-    </div>
+   
 	
     <input checked='checked' id='step-1' name='step' type='radio'>
-    <input id='step-2' name='step' type='radio'>
-    <input id='step-3' name='step' type='radio'>
-    <input id='step-4' name='step' type='radio'>
-    <input id='step-5' name='step' type='radio'>
+    
     <div class='progress_inner__bar'></div>
     <div class='progress_inner__bar--set'></div>
     <div class='progress_inner__tabs'>
