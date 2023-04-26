@@ -75,14 +75,14 @@
   </style>
 </head>
 <body>
-<img src="C:\Users\halhal\OneDrive\Documents\big data\votre-favicon.png" alt="Logo du site" class="logo" width="200" height="150" style="border-radius: 50%;">
+<img src=".\votre-favicon.png" alt="Logo du site" class="logo" width="200" height="150" style="border-radius: 50%;">
 
 <br><br>
   <h1>Déploiement d'un site web PHP sur Azure Cloud</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <div class="container">
   <p>Introduction : Dans le cadre de mon projet, j'ai développé un site web PHP en utilisant un environnement de développement local. L'objectif de ce projet est de déployer ce site web sur Azure Cloud en utilisant les services proposés par Microsoft pour la création d'applications Web.</p>
   <div class="image-right">
-    <img src="C:\wampNew\www\azure\pages\azureimg.png" width="200" height="150">
+    <img src=".\azureimg.png" width="200" height="150">
   </div>
 </div>
 <br><br><br>
@@ -96,7 +96,7 @@
   j'ai configuré mon Web App pour qu'elle prenne en charge le langage PHP.
   Ensuite, j'ai créé une base de données SQL sur Azure Cloud pour stocker les données de mon site web c'est les utilisateurs qui sont connecté au site. 
   </p>
-  <center>  <img src="C:\wampNew\www\azure\pages\iimgg.png" width="1000" height="450"></center>
+  <center>  <img src=".\iimgg.png" width="1000" height="450"></center>
   
   
   <br><br><br><br><br><br><br><br><br>
