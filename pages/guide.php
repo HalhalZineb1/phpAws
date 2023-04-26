@@ -132,19 +132,6 @@
 <br>3. Azure récupérera automatiquement les modifications apportées à votre référentiel GitHub et les déploiera sur l'application web. Vous pouvez suivre le processus
 		de déploiement continu en consultant les informations sur l'onglet "Déploiement continu" de votre application web sur Azure.
 	</p>
-    
-  <div class="cloud"></div>
-  <div class="progress_inner__bar"></div>
-  <div class="progress_inner__step">
-    <label>Étape 1</label>
-  </div>
-  <div class="progress_inner__step">
-    <label>Étape 2</label>
-  </div>
-  <div class="progress_inner__step">
-    <label>Étape 3</label>
-  </div>
-</div>
 
 
 <!-- partial -->
