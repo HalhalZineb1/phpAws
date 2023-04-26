@@ -137,6 +137,20 @@
 <!-- partial -->
   <script  src="./script.js"></script>
 
+<div class='progress_inner__status'>
+ <div class='box_base'></div>
+ <div class='box_lid'></div>
+ <div class='box_ribbon'></div>
+ <div class='box_bow'>
+   <div class='box_bow__left'></div>
+   <div class='box_bow__right'></div>
+ </div>
+ <div class='box_item'>cloud</div> <!-- ici on a remplacé le texte "boîte à cadeau" par "cloud" -->
+ <div class='box_tag'></div>
+ <div class='box_string'></div>
+</div>
+
+  </div>
 
 
 </body>
